@@ -4,7 +4,7 @@ Utilizando la API de TMDB https://developer.themoviedb.org/docs/getting-started 
 
 Los requerimientos: 
 
-Visualización de Películas Populares
+##Visualización de Películas Populares
 Como usuario de la aplicación,
 Quiero ver una grilla de películas populares en la página principal,
 Para poder descubrir nuevas películas para ver.
@@ -13,7 +13,7 @@ Criterios de Aceptación:
 - Cada película debe mostrarse como una tarjeta con su póster y título.
 - La grilla debe ser responsive y ajustarse a diferentes tamaños de pantalla.
 
-Historia de Usuario 2: Paginación de Películas
+##Historia de Usuario 2: Paginación de Películas
 
 Como usuario de la aplicación,
 Quiero poder navegar a través de múltiples páginas de películas,
